@@ -1,0 +1,55 @@
+2025-11-09T04:37:58.426096+00:00 Roy kernel: Failed to register legacy timer interrupt
+2025-11-09T04:37:58.426219+00:00 Roy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T04:37:58.426234+00:00 Roy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T04:37:58.426576+00:00 Roy kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2025-11-09T04:37:58.427107+00:00 Roy kernel: RAS: Correctable Errors collector initialized.
+2025-11-09T04:37:58.427454+00:00 Roy kernel: WSL (271) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-09T04:37:58.427459+00:00 Roy kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T04:37:58.427460+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T04:37:58.427464+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T04:37:58.427466+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T04:37:58.427550+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T04:37:58.427559+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T04:37:58.427562+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T04:37:58.427568+00:00 Roy kernel: Failed to connect to bus: No such file or directory
+2025-11-09T04:37:58.427570+00:00 Roy kernel: Failed to connect to bus: No such file or directory
+2025-11-09T04:38:01.003569+00:00 Roy snapd[208]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-09T04:47:44.174193+00:00 Roy kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T04:47:44.174198+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T04:47:44.174202+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T04:47:44.174205+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T04:47:44.174209+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T04:47:44.174225+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T04:47:44.174226+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T04:47:44.174230+00:00 Roy kernel: Failed to connect to bus: No such file or directory
+2025-11-09T04:47:44.174933+00:00 Roy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T04:47:44.175066+00:00 Roy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T04:50:18.259755+00:00 Roy python3[412]: ["2025-11-09T04:50:18.259", "WARNING", "ubuntupro.system", "get_kernel_info", 166, "failed to process /proc/version_signature.", {}]
+2025-11-09T04:50:18.265090+00:00 Roy python3[412]: ["2025-11-09T04:50:18.264", "WARNING", "ubuntupro.system", "get_kernel_info", 175, "Failed to parse kernel: 6.6.87.2-microsoft-standard-WSL2", {}]
+2025-11-09T05:00:55.944473+00:00 Roy kernel: WSL (289 - Relay(290)) ERROR: InitCreateProcessUtilityVm:2006: read failed -1 9
+2025-11-09T05:14:34.566800+00:00 Roy kernel: Failed to register legacy timer interrupt
+2025-11-09T05:14:34.566900+00:00 Roy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T05:14:34.566917+00:00 Roy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T05:14:34.567281+00:00 Roy kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2025-11-09T05:14:34.567958+00:00 Roy kernel: RAS: Correctable Errors collector initialized.
+2025-11-09T05:14:34.568073+00:00 Roy kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T05:14:34.568074+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T05:14:34.568079+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T05:14:34.568081+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T05:14:34.568087+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T05:14:34.568090+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T05:14:34.568091+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T05:14:34.568093+00:00 Roy kernel: Failed to connect to bus: No such file or directory
+2025-11-09T05:14:50.314219+00:00 Roy kernel: WSL (272) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-09T05:14:53.425529+00:00 Roy kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T05:14:53.425530+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T05:14:53.425534+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T05:14:53.425536+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T05:14:53.425542+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T05:14:53.425679+00:00 Roy kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T05:14:53.425681+00:00 Roy kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T05:14:53.425688+00:00 Roy kernel: Failed to connect to bus: No such file or directory
+2025-11-09T05:14:53.426284+00:00 Roy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T05:14:53.426311+00:00 Roy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T05:41:48.604147+00:00 Roy wsl-pro-service[2222]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-09T05:41:48.604439+00:00 Roy wsl-pro-service[2222]: landscape-config: error: no such option: --register-if-needed
